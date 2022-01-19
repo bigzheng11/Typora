@@ -1,4 +1,4 @@
-java是世界上最流行的**脚本语言**
+javascript是世界上最流行的**脚本语言**
 
 
 
@@ -45,7 +45,7 @@ var date=new Date()
 console.log(date)//Mon Jan 17 2022 18:29:38 GMT+0800 (中国标准时间)
 ```
 
-![image-20220117185007568](C:\Users\14469\AppData\Roaming\Typora\typora-user-images\image-20220117185007568.png)
+![image-20220117185007568](https://raw.githubusercontent.com/bigzheng11/Typora/master/image-20220117185007568.png)
 
 获得**毫秒数**(时间戳)
 
